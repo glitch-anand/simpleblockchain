@@ -1,2 +1,3 @@
 # simpleblockchain
-blockchain using python
+learning block chain. 
+CODE IN PROGRESS
